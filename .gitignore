@@ -1,0 +1,4 @@
+
+relocator.elf
+*.nm
+elf2mwo
